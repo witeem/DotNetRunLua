@@ -33,6 +33,7 @@ bld/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+.vscode/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
@@ -349,10 +350,3 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-src/BlogCore.Authority/appsettings.Development.json
-src/BlogCoreHang/appsettings.Development.json
-src/BlogCore/appsettings.Development.json
-src/BlogCore/appsettings.json
-src/BlogCore.Authority/appsettings.json
-azure-pipelines.yml
-azure-pipelines-1.yml
